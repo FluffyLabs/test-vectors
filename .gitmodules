@@ -1,0 +1,3 @@
+[submodule "w3f"]
+	path = w3f
+	url = git@github.com:davxy/jam-test-vectors.git
