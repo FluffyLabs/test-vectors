@@ -1,9 +1,12 @@
-[submodule "w3f"]
-	path = w3f
-	url = git@github.com:davxy/jam-test-vectors.git
 [submodule "javajam"]
 	path = javajam
 	url = git@github.com:javajamio/javajam-trace.git
 [submodule "jamduna"]
 	path = jamduna
 	url = git@github.com:jam-duna/jamtestnet.git
+[submodule "w3f-fluffy"]
+	path = w3f-fluffy
+	url = git@github.com:FluffyLabs/jamtestvectors.git
+[submodule "w3f-davxy"]
+	path = w3f-davxy
+	url = git@github.com:davxy/jam-test-vectors.git
