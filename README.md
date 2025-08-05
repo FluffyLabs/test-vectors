@@ -1,7 +1,7 @@
 # JAM Test Vectors
 
 This repository contains test vectors for JAM -
-made by multiple independent implementors.
+made by multiple implementors.
 
 ## 📕 About
 
