@@ -1,6 +1,6 @@
 # JAM Test Vectors
 
-This repository contains test vectors for JAM,
+This repository contains test vectors for JAM -
 made by multiple independent implementors.
 
 ## 📕 About
@@ -15,7 +15,7 @@ git clone git@github.com:FluffyLabs/test-vectors.git
 cd test-vectors
 ```
 
-## 🔗 Initial submodules
+## 🔗 Initialize submodules
 
 ```bash
 git submodule update --init --recursive
