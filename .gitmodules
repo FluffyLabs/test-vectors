@@ -10,3 +10,9 @@
 [submodule "w3f-davxy"]
 	path = w3f-davxy
 	url = git@github.com:davxy/jam-test-vectors.git
+[submodule "jamduna_064"]
+	path = jamduna_064
+	url = git@github.com:jam-duna/jamtestnet.git
+[submodule "jamduna_065"]
+	path = jamduna_065
+	url = git@github.com:jam-duna/jamtestnet.git
