@@ -13,3 +13,6 @@
 [submodule "jamduna_065"]
 	path = jamduna_065
 	url = git@github.com:jam-duna/jamtestnet.git
+[submodule "jamduna_067"]
+	path = jamduna_067
+	url = git@github.com:jam-duna/jamtestnet.git
