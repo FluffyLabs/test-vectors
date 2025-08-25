@@ -5,7 +5,7 @@
 	path = w3f-fluffy
 	url = git@github.com:FluffyLabs/jamtestvectors.git
 [submodule "w3f-davxy"]
-	path = w3f-davxy
+	path = w3f-davxy_066
 	url = git@github.com:davxy/jam-test-vectors.git
 [submodule "jamduna_064"]
 	path = jamduna_064
@@ -16,3 +16,6 @@
 [submodule "jamduna_067"]
 	path = jamduna_067
 	url = git@github.com:jam-duna/jamtestnet.git
+[submodule "w3f-davxy_067"]
+	path = w3f-davxy_067
+	url = git@github.com:davxy/jam-test-vectors.git
