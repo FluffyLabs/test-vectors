@@ -19,3 +19,6 @@
 [submodule "w3f-davxy_067"]
 	path = w3f-davxy_067
 	url = git@github.com:davxy/jam-test-vectors.git
+[submodule "w3f-davxy_070"]
+	path = w3f-davxy_070
+	url = git@github.com:davxy/jam-test-vectors.git
