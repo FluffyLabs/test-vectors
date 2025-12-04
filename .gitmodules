@@ -29,3 +29,6 @@
 [submodule "w3f-070"]
 	path = w3f-070
 	url = git@github.com:w3f/jamtestvectors.git
+[submodule "javajam_071"]
+	path = javajam_071
+	url = git@github.com:javajamio/javajam-trace.git
