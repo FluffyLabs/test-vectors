@@ -32,3 +32,6 @@
 [submodule "w3f_070"]
 	path = w3f_070
 	url = git@github.com:w3f/jamtestvectors.git
+[submodule "w3f_072"]
+	path = w3f_072
+	url = git@github.com:w3f/jamtestvectors.git
