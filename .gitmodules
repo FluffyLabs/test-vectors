@@ -1,25 +1,6 @@
-[submodule "javajam"]
-	path = javajam
-	url = git@github.com:javajamio/javajam-trace.git
-
-[submodule "w3f-fluffy"]
-	path = w3f-fluffy
-	url = git@github.com:FluffyLabs/jamtestvectors.git
-
-[submodule "jamduna_067"]
-	path = jamduna_067
-	url = git@github.com:jam-duna/jamtestnet.git
-
-[submodule "w3f-davxy_067"]
-	path = w3f-davxy_067
-	url = git@github.com:davxy/jam-test-vectors.git
-[submodule "w3f-davxy_070"]
-	path = w3f-davxy_070
-	url = git@github.com:davxy/jam-test-vectors.git
 [submodule "w3f-davxy_071"]
 	path = w3f-davxy_071
 	url = https://github.com/davxy/jam-test-vectors.git
-
 [submodule "jam-conformance"]
 	path = jam-conformance
 	url = https://github.com/davxy/jam-conformance/
@@ -29,9 +10,6 @@
 [submodule "javajam_071"]
 	path = javajam_071
 	url = git@github.com:javajamio/javajam-trace.git
-[submodule "w3f_070"]
-	path = w3f_070
-	url = git@github.com:w3f/jamtestvectors.git
 [submodule "w3f_072"]
 	path = w3f_072
 	url = git@github.com:w3f/jamtestvectors.git
